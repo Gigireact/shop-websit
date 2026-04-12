@@ -118,11 +118,11 @@ export default function Footer() {
                 </div>
                 <div className="flex items-center gap-3 text-white/60">
                   <Phone className="w-5 h-5 text-purple" />
-                  <span>+1 (234) 903-4623-473</span>
+                  <span>+(234) 903-4623-473</span>
                 </div>
                 <div className="flex items-center gap-3 text-white/60">
                   <MapPin className="w-5 h-5 text-purple" />
-                  <span>123 Commerce St, New York, NY</span>
+                  <span>Apo Resettlement, Abuja, Nigeria</span>
                 </div>
               </div>
             </div>
