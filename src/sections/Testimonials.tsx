@@ -13,7 +13,7 @@ const testimonials: Testimonial[] = [
   },
   {
     id: 2,
-    name: 'Michael Johnson',
+    name: 'Gift Udofiah',
     role: 'Developer',
     content: 'As a developer, I appreciate the clean code and excellent documentation. The theme is well-structured and easy to customize. Highly recommended for any e-commerce project.',
     image: '/images/testimonial-michael.jpg',
