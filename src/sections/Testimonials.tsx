@@ -20,7 +20,7 @@ const testimonials: Testimonial[] = [
   },
   {
     id: 3,
-    name: 'Sarah Williams',
+    name: 'Vivian Williams',
     role: 'Marketer',
     content: 'The SEO optimization and fast loading speed have significantly improved our search rankings. Customer support is also top-notch. Best investment for our business!',
     image: '/images/testimonial-sarah.jpg',
